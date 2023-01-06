@@ -20,6 +20,23 @@
          <version>1.0.0</version>
    </dependency>
 ~~~
+**Example**
+~~~
+
+public class Demo {
+    public static void main(String[] args) {
+    
+    String host="localhost";
+    String port="3306";
+    String database="db_orm";
+    String username="root";
+    String password="mysql";
+    String packagesToScan="entity";
+    
+        InitializeDB.initialize(host,port,database,user,password,packagesToScan);
+    }
+}
+~~~
 ### Version
 1.0.0
 
