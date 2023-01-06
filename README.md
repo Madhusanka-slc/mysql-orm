@@ -3,7 +3,7 @@
 
 ### How to use this Repo
 * First get cloned the repo 
-* ```git clone https://github.com/Madhusanka-slc/mysql-orm.git```
+* ```git clone https://github.com/Madhusanka-slc/mysql-orm```
 * Open the `pom.xml` via IntelliJ IDEA
 * Make sure to the open it as a project, if prompt
 * Reload the `pom.xml` file via **Maven Tool Window**
